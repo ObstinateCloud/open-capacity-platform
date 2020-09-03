@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS `tx-manager` DEFAULT CHARACTER SET = utf8;
-Use `tx-manager`;
+CREATE DATABASE IF NOT EXISTS `ocp-tx-manager` DEFAULT CHARACTER SET = utf8;
+Use `ocp-tx-manager`;
 
 -- ----------------------------
 -- Table structure for tx-manager

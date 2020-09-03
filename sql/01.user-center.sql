@@ -1,6 +1,6 @@
-#导出 user-center 的数据库结构
-CREATE DATABASE IF NOT EXISTS `user-center` DEFAULT CHARACTER SET = utf8mb4;
-Use `user-center`;
+#导出 ocp-user-center 的数据库结构
+CREATE DATABASE IF NOT EXISTS `ocp-user-center` DEFAULT CHARACTER SET = utf8mb4;
+Use `ocp-user-center`;
 
 #
 # Structure for table "sys_menu"

@@ -1,6 +1,6 @@
-# 导出 oauth-center 的数据库结构
-CREATE DATABASE IF NOT EXISTS `oauth-center` DEFAULT CHARACTER SET = utf8mb4;
-Use `oauth-center`;
+# 导出 ocp-oauth-center 的数据库结构
+CREATE DATABASE IF NOT EXISTS `ocp-oauth-center` DEFAULT CHARACTER SET = utf8mb4;
+Use `ocp-oauth-center`;
 
 
 #

@@ -1,6 +1,6 @@
-##导出 sms-center 的数据库结构
-CREATE DATABASE IF NOT EXISTS `sms-center` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
-USE `sms-center`;
+##导出 ocp-sms-center 的数据库结构
+CREATE DATABASE IF NOT EXISTS `ocp-sms-center` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
+USE `ocp-sms-center`;
 SET FOREIGN_KEY_CHECKS=0;
 #
 # Structure for table "sys_sms"

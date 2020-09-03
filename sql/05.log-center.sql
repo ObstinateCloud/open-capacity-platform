@@ -1,6 +1,6 @@
 ###导出 sms-center 的数据库结构
-CREATE DATABASE IF NOT EXISTS `log-center` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
-USE `log-center`;
+CREATE DATABASE IF NOT EXISTS `ocp-log-center` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
+USE `ocp-log-center`;
 SET FOREIGN_KEY_CHECKS=0;
 SET FOREIGN_KEY_CHECKS=0;
 

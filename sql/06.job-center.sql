@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS `job-center` DEFAULT CHARACTER SET = utf8mb4;
-Use `job-center`;
+CREATE DATABASE IF NOT EXISTS `ocp-job-center` DEFAULT CHARACTER SET = utf8mb4;
+Use `ocp-job-center`;
 SET FOREIGN_KEY_CHECKS = 0 ;
 
 #
